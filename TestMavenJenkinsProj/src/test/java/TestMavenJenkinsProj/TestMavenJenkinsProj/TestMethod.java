@@ -19,5 +19,6 @@ public class TestMethod {
 		
 		System.out.println("Hello world!!");
 		System.out.println("Program ended!!");
+		System.out.println("GIT push test!!");
 	}
 }
